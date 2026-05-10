@@ -1,0 +1,78 @@
+Teclas para uso de Keyframes:
+1.-Presionar I para reproducir animacion.
+2.-Presionar R para volver a habilitar reproduccion de la animacion
+3.-Presiona G para guardar frame
+4.-Presiona P para habilitar guardar nuevo frame
+5.-Presiona M para mover en X
+6.-Presiona H para habilitar mover en X
+presiona R para habilitar reproducir de nuevo la animacion
+playindex : 1
+playindex : 2
+playindex : 3
+playindex : 4
+playindex : 5
+playindex : 6
+playindex : 7
+playindex : 8
+playindex : 9
+playindex : 10
+playindex : 11
+playindex : 12
+playindex : 13
+playindex : 14
+playindex : 15
+playindex : 16
+playindex : 17
+playindex : 18
+Frame index= 19
+termina anim
+Ya puedes reproducir de nuevo la animacion con la tecla I
+presiona R para habilitar reproducir de nuevo la animacion
+playindex : 1
+playindex : 2
+playindex : 3
+movAvion_x es: 7.033357
+Presiona la tecla H para poder habilitar la variable
+playindex : 4
+playindex : 5
+playindex : 6
+playindex : 7
+frameindex 19
+presiona P para habilitar guardar otro frame
+playindex : 8
+playindex : 9
+playindex : 10
+playindex : 11
+playindex : 12
+playindex : 13
+playindex : 14
+playindex : 15
+playindex : 16
+playindex : 17
+playindex : 18
+playindex : 19
+Frame index= 20
+termina anim
+Ya puedes reproducir de nuevo la animacion con la tecla I
+presiona R para habilitar reproducir de nuevo la animacion
+playindex : 1
+playindex : 2
+playindex : 3
+playindex : 4
+playindex : 5
+playindex : 6
+playindex : 7
+playindex : 8
+playindex : 9
+playindex : 10
+playindex : 11
+playindex : 12
+playindex : 13
+playindex : 14
+playindex : 15
+playindex : 16
+playindex : 17
+playindex : 18
+playindex : 19
+Frame index= 20
+termina anim
